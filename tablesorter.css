@@ -1,0 +1,12 @@
+.sort-asc {
+	color:red;
+}
+
+.sort-desc {
+	color:blue;
+}
+
+.sort-header {
+	cursor:pointer;
+	display:block;
+}
